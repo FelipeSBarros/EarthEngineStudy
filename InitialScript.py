@@ -13,6 +13,7 @@ pprint(image.getInfo())
 # Display a thumbnail of a sample image asset.
 Image(url=ee.Image('USGS/SRTMGL1_003').getThumbUrl({'min': 0, 'max': 3000}))
 
+# Sampling SRTM
 xy = ee.Geometry.Point([86.9250, 27.9881])
 elev = image.sample(xy, 30).first().get('elevation').getInfo()
 print('Mount Everest elevation (m):', elev)
@@ -49,6 +50,7 @@ myMap.add_child(folium.LayerControl())
 # Display the map.
 display(myMap)
 
+# landsat
 import matplotlib.pyplot as plt
 # Fetch a Landsat image.
 img = ee.Image('LANDSAT/LT05/C01/T1_SR/LT05_034033_20000913')
