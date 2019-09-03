@@ -42,3 +42,24 @@ pip install -U folium, matplotlib
 https://docs.conda.io/en/latest/miniconda.html  
 https://developers.google.com/earth-engine/python_install-conda  
 https://www.earthdatascience.org/tutorials/intro-google-earth-engine-python-api/  
+
+## Fontes de estudos:  
+### Inicial  
+* https://github.com/acgeospatial/GoogleEarthEnginePy  
+* https://github.com/renelikestacos/Google-Earth-Engine-Python-Examples  
+* https://github.com/tylere/ee-jupyter-examples  
+* https://github.com/giswqs/Earth-Engine-Python  
+* https://github.com/catherinekuhn/ee-python  
+
+### Sensoriamento Remoto  
+* https://github.com/renelikestacos/Google-Earth-Engine-Python-Examples  
+* [Geo4Good14](https://github.com/tylere/g4g14-ee-python-api)  
+* [
+Jupyter notebooks for the Python session of the 2018 Earth Engine User Summit.
+](https://github.com/tylere/EEUS2018-JupyterSession)  
+* [pygeeltr](https://github.com/fitoprincipe/pygeeltr)  
+
+### Novas ferramentas:  
+* https://github.com/fitoprincipe/geebap
+* [IpyGEE](https://github.com/fitoprincipe/ipygee)  
+* https://github.com/gee-community  
