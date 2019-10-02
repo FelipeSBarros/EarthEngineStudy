@@ -50,6 +50,7 @@ https://www.earthdatascience.org/tutorials/intro-google-earth-engine-python-api/
 * https://github.com/tylere/ee-jupyter-examples  
 * https://github.com/giswqs/Earth-Engine-Python  
 * https://github.com/catherinekuhn/ee-python  
+* https://geoscripting-wur.github.io/  
 
 ### Sensoriamento Remoto  
 * https://github.com/renelikestacos/Google-Earth-Engine-Python-Examples  
@@ -63,3 +64,16 @@ Jupyter notebooks for the Python session of the 2018 Earth Engine User Summit.
 * https://github.com/fitoprincipe/geebap
 * [IpyGEE](https://github.com/fitoprincipe/ipygee)  
 * https://github.com/gee-community  
+* https://area2.readthedocs.io/en/latest/index.html  
+
+### Cursos:  
+* https://philippgaertner.github.io/2019/07/earth-engine-apps-gallery/  
+* https://developers.google.com/machine-learning/crash-course/  
+https://www.coursera.org/learn/machine-learning?ranMID=40328&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-MCt62nyW6clOEkQssEGtoQ&siteID=je6NUbpObpQ-MCt62nyW6clOEkQssEGtoQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=je6NUbpObpQ*  
+
+# Geo4Good  
+* https://medium.com/google-earth/a-new-dimension-in-earth-engine-3c25c89d0ece  
+* https://medium.com/@kkrao/new-earth-engine-features-announced-at-geoforgood-summit-2019-57c33ef48bb8  
+
+# Js  
+* http://www.gisandbeers.com/scripts-para-google-earth-engine/  
